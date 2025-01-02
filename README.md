@@ -1,4 +1,4 @@
-##Rock, Paper & Scissor
+## Rock, Paper & Scissor
 Play your favourite game RPS!
 
 - made in C
